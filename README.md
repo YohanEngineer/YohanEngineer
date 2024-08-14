@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YohanEngineer
-- 👀 I’m interested in coding front-end and back-end applications with CI/CD deployment. 
-- 🌱 I’m currently learning Python, Docker, MongoDB, Angular
+- 👀 I’m a Data Engineer working primarily with GCP, Pyspark and Airflow.
+- 🌱 I love to learn more about data but also about Dev Ops and Infrastructure.
 - 📫 How to reach me :
    - www.linkedin.com/in/yohanbouali
    - https://twitter.com/EngineerYohan
